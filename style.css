@@ -1,0 +1,21 @@
+body{
+ 
+ text-align: center;
+ background-color: black;
+}
+p{
+    color: aliceblue;
+    font-size: xx-large;
+    font-style: italic;
+}
+h1{
+    color: aliceblue;
+   font-family: cursive;
+}
+h2{
+    color: aliceblue;
+}
+#myimage{
+    height: fit-content;
+    width: fit-content;
+}
